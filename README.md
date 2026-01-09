@@ -1,8 +1,11 @@
+# Shivani Soni (@sonishivani7987-creator)
+### Python Learner 🐍 | Open Source Beginner 🌟
+
+
 🐍 Python Learning Journey
 
 Welcome to my **Python Learning Journey** repository!  
 In this repo, I am sharing my **day-wise Python practice** as I learn Python step by step from basics.
-
 This repository is created to:
 - Track my daily progress
 - Practice Python concepts
